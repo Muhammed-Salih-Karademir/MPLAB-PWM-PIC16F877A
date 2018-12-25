@@ -1,3 +1,3 @@
 # MPLAB-PWM-PIC16F877A
-.c ve.h dosyları MPLAB derleyicisinde yazılmışıtır.Uygun bir şeklide MPLAB'i kurduktan sonra her iki dosyayı projenize dahil ederek,
+.c ve.h dosyları MPLAB IDE'sinde yazılmışıtır.Uygun bir şeklide MPLAB'i kurduktan sonra her iki dosyayı projenize dahil ederek,
 PIC16F877A ile PWM sinyalleri oluşturabilir, istediğiniz frekansı ve duty cyle'ı ayarlayabilirsiniz.
